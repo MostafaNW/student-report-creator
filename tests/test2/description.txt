@@ -1,0 +1,2 @@
+The courses are out of order in the courses.csv file, but they should still appear
+in order in the final report.

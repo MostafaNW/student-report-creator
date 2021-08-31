@@ -1,2 +1,0 @@
-This test checks that all students completed all tests in all the courses they took
-This should throw an error, as I modified it so that one student did not complete all tests.

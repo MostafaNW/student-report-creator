@@ -1,3 +1,0 @@
-The students are out of order in the students.csv file, but they should still appear
-in order in the final report. In addition, this takes into account a student
-that is registered in students.csv but has not taken a course yet.
